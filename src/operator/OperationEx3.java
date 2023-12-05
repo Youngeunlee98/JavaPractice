@@ -1,3 +1,5 @@
+package operator;
+
 public class OperationEx3 {
     //문제 3.
     //`int` 형 변수 `score` 를 선언하세요.
